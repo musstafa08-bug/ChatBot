@@ -1,6 +1,7 @@
 # ChatBot
 
 
-Chatbot is a computer program with AI to understand user textual input. Chatbot Save time and effort by automating customer support.
+Creating a contextual chatbot without using any framework.
 
+## Example
 ![Conversation](conversation.png)
